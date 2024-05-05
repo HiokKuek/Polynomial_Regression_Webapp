@@ -34,8 +34,8 @@ export default function Home() {
       <div className="bg flex flex-col justify-content items-center px-10 my-10 gap-8 text-center">
         <Heading size={["lg", "xl"]}> Predict your Salary now! </Heading>
         <Text>
-          Using the dataset below, give me an estimate of your current position
-          and I can predict your income increase(%) in the future!
+          Let&apos;s try and predict your future increase in
+          income&#40;%&#41;&#33;
         </Text>
         <div className="flex flex-col items-center md:flex-row gap-5">
           <Image
